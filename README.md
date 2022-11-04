@@ -17,8 +17,3 @@ I'm a Front-End Developer
 
 ### :chart_with_upwards_trend: GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeryiatselesh&layout=compact&theme=midnight-purple)
-
----
-#### You can contact me
-- Mail : valeryiatselesh@gmail.com
-- Telegram: @valerytttt
