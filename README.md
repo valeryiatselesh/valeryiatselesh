@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋 My name is Valeryia
 
-<!--
-**valeryiatselesh/valeryiatselesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer
+- :pushpin: JS | CSS | HTML
+- :briefcase: I’m currently working on my Portfolio
+---
+### :smiley: About me
 
-Here are some ideas to get you started:
+:v:I'm 20 years old. I have been developing in the IT sphere more than year now. I started with testing and project management. But I fell in love with code more than half year ago, and no one can stop me now!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :bomb: My skills and tools:
+- HTML | CSS
+  * working with such pre-processors as SCSS and Sass
+- JavaScript, React.js
+- My workspace is VS Code
+- I know the basics of UX/UI design, know how to work with Figma and read layouts very well
+
+### :chart_with_upwards_trend: GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeryiatselesh&layout=compact&theme=midnight-purple)
+
+---
+#### You can contact me
+- Mail : valeryiatselesh@gmail.com
+- Telegram: @valerytttt
