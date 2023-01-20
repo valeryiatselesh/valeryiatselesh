@@ -16,4 +16,3 @@ I'm a Front-End Developer
 - I know the basics of UX/UI design, know how to work with Figma and read layouts without any dificulties.
 
 ### :chart_with_upwards_trend: GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeryiatselesh&layout=compact)](https://github.com/valeryiatselesh/github-readme-stats)
