@@ -6,7 +6,7 @@ I'm a Front-End Developer
 ---
 ### :smiley: About me
 
-:v:I'm 21 years old. I have been developing in the IT sphere more than year now. I started with testing and project management. But I fell in love with code more than half year ago, and no one can stop me now!
+:v:I'm 21 years old. I have been developing in the IT sphere 2 years now. I started with testing and project management. But I fell in love with code more than half year ago, and no one can stop me now!
 
 ### :bomb: My skills and tools:
 - HTML | CSS
