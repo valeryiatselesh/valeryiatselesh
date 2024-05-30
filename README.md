@@ -6,11 +6,9 @@ I'm a Front-End Developer
 ---
 ### :smiley: About me
 
-:v:I'm 21 years old. I have been developing in the IT sphere 2 years now. I started with testing and project management. But I fell in love with code more than half year ago, and no one can stop me now!
-
 ### :bomb: My skills and tools:
 - HTML | CSS
   * working with such pre-processors as SCSS and Sass
-- JavaScript, React.js
+- JavaScript, React, TypeScript
 - My workspace is VS Code
 - I know the basics of UX/UI design, know how to work with Figma and read layouts without any dificulties.
