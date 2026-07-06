@@ -1,12 +1,4 @@
-## Hi there 👋 My name is Valeryia
-
-I'm a Front-End Developer
-- :pushpin: JS | CSS | HTML
-- :briefcase: I’m currently working on my Portfolio
----
-### :smiley: About me
-
-### :bomb: My skills and tools:
+### My skills and tools:
 - HTML | CSS
   * working with such pre-processors as SCSS and Sass
 - JavaScript, React, TypeScript
